@@ -1,3 +1,4 @@
+'''mermaid
 ---
 title : CS457 Game State Machine
 ---
@@ -77,3 +78,4 @@ stateDiagram
     DISCONNECT --> NOTIFY_PLAYERS
     NOTIFY_PLAYERS --> CLOSE_CONNECTION
   }
+'''
