@@ -1,3 +1,5 @@
+Note: This does not look great, I spent a bunch of time on the Mermaid website making it look good, and then when I embedded it here... It did not turn out well :'(
+
 ```mermaid
 ---
 title : CS457 Game State Machine
